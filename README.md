@@ -1,4 +1,4 @@
-## My implementation of Angular.io Start
+## My Personal Implementation of Angular.io's Official Documentation Getting Started
 
 Deployed at:  
 https://otaviopires.github.io/angular-example-getting-started/index.html and  
