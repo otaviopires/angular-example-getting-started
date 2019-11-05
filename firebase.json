@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/angular-example-getting-started",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
